@@ -38,8 +38,8 @@ let arr = {
 alert(arr[lang]);
 
 // Усложненное задание номер 2
-let namePerson = prompt('Привет, как тебя зовут?');
-let preName = (namePerson === 'Артем') ? 'директор' :
-    (namePerson === 'Максим') ? 'преподаватель' : 'студент';
+// let namePerson = prompt('Привет, как тебя зовут?');
+// let preName = (namePerson === 'Артем') ? 'директор' :
+//     (namePerson === 'Максим') ? 'преподаватель' : 'студент';
 
-console.log(preName);
+// console.log(preName);
